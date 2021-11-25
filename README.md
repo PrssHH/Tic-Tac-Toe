@@ -1,2 +1,1 @@
-# -chess
-#chess robot
+## Tic-Tac-Toe robot
